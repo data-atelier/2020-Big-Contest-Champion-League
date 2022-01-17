@@ -18,6 +18,12 @@ To gain the competitive edge in the higly competitive home shopping market, the 
 
 ### Dataset
 
+Training set - The company's airing schedule and corresponding sales records from Jan 2019 ~ Dec 2019.
+Test set for evaluation - The airing schedule for Jun 2020 
+
+### Features
+
+
 
 ## Notes
 
