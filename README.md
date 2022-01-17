@@ -37,9 +37,10 @@ Test set for evaluation - The airing schedule for Jun 2020
 ### External datasets
 After some research on the business context, our team decided to add features from external sources to build a model with better predictive power.
 
-#### Weather data from Korea Meteorological Administration
+   #### Weather data from Korea Meteorological Administration
 
-#### Shopping Trend data from Naver DataLab
+
+   #### Shopping Trend data from Naver DataLab
 
 ## Findings
 
