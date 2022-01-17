@@ -10,6 +10,7 @@ We, unfortunately, didn't get to win the medals, however, we did make it to the 
 
 After the competition, our team decided to share our approach & scripts here in the hope that we could be of any help for all the data science enthusiasts out there. 😉
 
+
 ## Problem Description: Sales Prediction for NS SHOP+ Home shopping
 
 NS SHOP+ is a relatively new business model launched in 2015 by NS Home Shopping, which allows consumers to make real-time orders with their own remote controls.
@@ -48,6 +49,7 @@ To reflect this common sense, we gathered weather data - humidity, temperature, 
 
 We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
 
+
 ## Some Exploratory Data Analysis Findings
 1. Kimchi sales peaked in winter season
 2. Household goods were sold most on Mondays & Tuesdays
@@ -57,6 +59,11 @@ We also wanted to incorporate consumer's interest towards different product as t
 
 etc...
     
+    
 ## Modeling
 
-1. In terms of model training, time-based splitting in training and validation sets worked better when it comes to model accuracy. Also, this splition method apparently reduced the risk of overfitting. 
+In terms of model training, time-based splitting in training and validation sets worked better when it comes to model accuracy. Also, this splition method apparently reduced the risk of overfitting. 
+
+Below is the structure of our final prediction model.
+
+
