@@ -76,4 +76,10 @@ Below is the structure of our final prediction model.
 
 ![alt text](https://github.com/data-atelier/imgs/blob/a5ba298cf9230a44f54495516bfe96b21ff90903/model_structure.PNG)
 
-## What can we do better?
+## What did we do good?
+1. Utilized external sources well which turned out to be effective in predicting sales
+2. Split the training & validation set based on time
+3. Used feature embedding method when dealing with product code feature that helped effectively reduce the feature dimension
+
+## What can we do better next time?
+1. Could consider leveraging time series forecast when stacking models
