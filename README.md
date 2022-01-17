@@ -16,6 +16,4 @@ After the competition, our team decided to share our approach & scripts here in 
 
 
 ## Notes
-1. 
-2. 본 레포지토리에 공개된 코드를 개인적인 용도로 참고하시는 것은 괜찮지만 그에 따라 발생 가능한 모든 종류의 문제에 대해서는 저희가 책임질 수 없습니다. 
-3. 
+1. As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.
