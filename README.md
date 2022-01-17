@@ -27,7 +27,7 @@ Test set for evaluation - The airing schedule for Jun 2020
 
 Reference data - Audience rating of the NS SHOP+ TV channel (in minutes)
 
-### Features
+#### Features
 
 - Date: date & time information of the airing; consisted of year, month, date, hour, and time
 - Product_Group_Code (a.k.a Mother_Code)
@@ -38,19 +38,19 @@ Reference data - Audience rating of the NS SHOP+ TV channel (in minutes)
 - Total_Sales
 - Time_Exposed: An amount of time a product was aired and shown to customers. Ususually decided in the airing shcedule planning process.
 
-### External datasets
+#### External datasets
 After some research on the business context, our team decided to add features from external sources to build a model with better predictive power.
 
-#### Weather data from Korea Meteorological Administration
+##### Weather data from Korea Meteorological Administration
 
 It is well-known that home shopping sales tends to increase when the weather is not appropriate for outdoor activities. 
 To reflect this common sense, we gathered weather data - humidity, temperature, precipitation, etc. - from the Korea Meteorological Administration's website and wrangled them and merged them as wheather features.
 
-#### Shopping Trend data from Naver DataLab
+##### Shopping Trend data from Naver DataLab
 
 We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
 
-
+### Model Evaluation Metrics
 
 ## Some Exploratory Data Analysis Findings
 1. Kimchi sales peaked in winter season
