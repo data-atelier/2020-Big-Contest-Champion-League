@@ -34,6 +34,13 @@ Test set for evaluation - The airing schedule for Jun 2020
 - Total_Sales
 - Time_Exposed: An amount of time a product was aired and shown to customers. Ususually decided in the airing shcedule planning process.
 
+### External datasets
+After some research on the business context, our team decided to add features from external sources to build a model with better predictive power.
+
+#### Weather data from Korea Meteorological Administration
+
+#### Shopping Trend data from Naver DataLab
+
 ## Findings
 
 
