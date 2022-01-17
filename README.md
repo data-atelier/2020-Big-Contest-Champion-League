@@ -52,6 +52,12 @@ We also wanted to incorporate consumer's interest towards different product as t
 
 ### Model Evaluation Metrics
 
+MAPE (Mean Absolute Percentage Error) - This was the evaluation metric set in stone by the company
+
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/5ada3996551e35503a1605edd4e35a26f1215d36)
+
+Additionally, our team also used RMSE (Root Mean Squared Error) when training the model.
+
 ## Some Exploratory Data Analysis Findings
 1. Kimchi sales peaked in winter season
 2. Household goods were sold most on Mondays & Tuesdays
@@ -69,3 +75,5 @@ In terms of model training, time-based splitting in training and validation sets
 Below is the structure of our final prediction model.
 
 ![alt text](https://github.com/data-atelier/imgs/blob/a5ba298cf9230a44f54495516bfe96b21ff90903/model_structure.PNG)
+
+## What can we do better?
