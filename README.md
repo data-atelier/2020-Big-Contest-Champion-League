@@ -37,10 +37,13 @@ Test set for evaluation - The airing schedule for Jun 2020
 ### External datasets
 After some research on the business context, our team decided to add features from external sources to build a model with better predictive power.
 
-   #### Weather data from Korea Meteorological Administration
+#### Weather data from Korea Meteorological Administration
 
+It is well-known that home shopping sales tends to increase when the weather is not appropriate for outdoor activities. 
 
-   #### Shopping Trend data from Naver DataLab
+To reflect this common sense, we gathered weather data - humidity, temperature, precipitation, etc. - from the Korea Meteorological Administration's website and wrangled them and merged them as wheather features.
+
+#### Shopping Trend data from Naver DataLab
 
 ## Findings
 
