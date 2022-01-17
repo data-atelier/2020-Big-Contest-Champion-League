@@ -54,6 +54,7 @@ We also wanted to incorporate consumer's interest towards different product as t
 3. The most popular prduct group in the evening time was Cosmetics
 4. Regardless of product groups and types, consumers tended to make more last-minute orders rather than bought at first sight
 5. Interestingly, audience rating dataset didn't align well with the sales 
+
 etc...
     
 ## Modeling
