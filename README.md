@@ -8,9 +8,11 @@ Our team, data atelier, took the pledge to participate in the champion league tr
 
 We, unfortunately, didn't get to win the medals, however, we did make it to the finalist, ranking in top 16 out of 500+ participants.
 
-Here we 
+After the competition, our team decided to share our approach & scripts here in the hope that we could be of any help for all the data science enthusiasts out there. 😉
 
-## 
+## Problem Description: Sales Prediction for NS SHOP+ Home shopping
+
+
 
 
 ## Notes
