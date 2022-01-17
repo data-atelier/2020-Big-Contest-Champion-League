@@ -25,6 +25,13 @@ Test set for evaluation - The airing schedule for Jun 2020
 ### Features
 
 - Date: date & time information of the airing; consisted of year, month, date, hour, and time
+- Product_Group_Code (a.k.a Mother_Code)
+- Product_Group_in_KOR
+- Product_Code
+- Product_Name
+- Price_Per_Unit
+- Total_Sales
+- Time_Exposed: An amount of time a product was aired and shown to customers. Ususually decided in the airing shcedule planning process.
 
 ## Notes
 
