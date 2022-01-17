@@ -44,4 +44,5 @@ After some research on the business context, our team decided to add features fr
 
 ## Findings
 
+1. In terms of model training, time-based splitting in training and validation sets worked better when it comes to model accuracy. Also, this splition method apparently reduced the risk of overfitting. 
 
