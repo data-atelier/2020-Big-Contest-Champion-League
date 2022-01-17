@@ -12,6 +12,7 @@ After the competition, our team decided to share our approach & scripts here in 
 
 ## Problem Description: Sales Prediction for NS SHOP+ Home shopping
 
+In the extremely competitive home shopping market world, optimizing the company's airing schedule is one of the key factors to successful business.
 
 
 
