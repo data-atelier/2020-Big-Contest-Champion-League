@@ -48,13 +48,13 @@ To reflect this common sense, we gathered weather data - humidity, temperature, 
 
 We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
 
-## Exploratory Data Analysis Findings
-    - Kimchi sales peaked in winter season
-    - Household goods were sold most on Mondays & Tuesdays
-    - The most popular prduct group in the evening time was Cosmetics
-    - Regardless of product groups and types, consumers tended to make more last-minute orders rather than bought at first sight
-    - Interestingly, audience rating dataset didn't align well with the sales 
-    - etc...
+## Some Exploratory Data Analysis Findings
+1. Kimchi sales peaked in winter season
+2. Household goods were sold most on Mondays & Tuesdays
+3. The most popular prduct group in the evening time was Cosmetics
+4. Regardless of product groups and types, consumers tended to make more last-minute orders rather than bought at first sight
+5. Interestingly, audience rating dataset didn't align well with the sales 
+etc...
     
 ## Modeling
 
