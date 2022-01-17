@@ -24,7 +24,7 @@ Test set for evaluation - The airing schedule for Jun 2020
 
 ### Features
 
-
+- Date: date & time information of the airing; consisted of year, month, date, hour, and time
 
 ## Notes
 
