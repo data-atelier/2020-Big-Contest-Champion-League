@@ -11,6 +11,7 @@ We, unfortunately, didn't get to win the medals, however, we did make it to the 
 After the competition, our team decided to share our approach & scripts here in the hope that we could be of any help for all the data science enthusiasts out there. 😉
 
 
+
 ## Problem Description: Sales Prediction for NS SHOP+ Home shopping
 
 NS SHOP+ is a relatively new business model launched in 2015 by NS Home Shopping, which allows consumers to make real-time orders with their own remote controls.
@@ -48,6 +49,7 @@ To reflect this common sense, we gathered weather data - humidity, temperature, 
 #### Shopping Trend data from Naver DataLab
 
 We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
+
 
 
 ## Some Exploratory Data Analysis Findings
