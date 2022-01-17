@@ -49,11 +49,12 @@ We also wanted to incorporate consumer's interest towards different product as t
 ## Exploratory Data Analysis Findings
 
 1. Every product has its own silver lining
-    - Produce & Kimchi sales peaked in September due to Chuseok holidays
+    - Kimchi sales peaked in winter season
+    - Household goods were sold most on Mondays & Tuesdays
+    - The most popular prduct group in the evening time was Cosmetics
+    - Regardless of product groups and types, consumers tended to make more last-minute orders rather than bought at first sight
+    - etc...
     
-
-
-
 ## Modeling
 
 1. In terms of model training, time-based splitting in training and validation sets worked better when it comes to model accuracy. Also, this splition method apparently reduced the risk of overfitting. 
