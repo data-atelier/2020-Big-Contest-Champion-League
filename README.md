@@ -23,6 +23,8 @@ Training set - The company's airing schedule and corresponding sales records fro
 
 Test set for evaluation - The airing schedule for Jun 2020 
 
+Reference data - Audience rating of the NS SHOP+ TV channel (in minutes)
+
 ### Features
 
 - Date: date & time information of the airing; consisted of year, month, date, hour, and time
@@ -47,12 +49,11 @@ To reflect this common sense, we gathered weather data - humidity, temperature, 
 We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
 
 ## Exploratory Data Analysis Findings
-
-1. Every product has its own silver lining
     - Kimchi sales peaked in winter season
     - Household goods were sold most on Mondays & Tuesdays
     - The most popular prduct group in the evening time was Cosmetics
     - Regardless of product groups and types, consumers tended to make more last-minute orders rather than bought at first sight
+    - Interestingly, audience rating dataset didn't align well with the sales 
     - etc...
     
 ## Modeling
