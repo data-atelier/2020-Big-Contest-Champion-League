@@ -6,8 +6,11 @@ Big Contest is the biggest data analytics competition in South Korea that is hel
 
 Our team, data atelier, took the pledge to participate in the champion league track. There, we solved a sales forecasting task for a home shopping company in the country. 
 
-We made it to the finalist, ranking in top 16 out of 500+ participants. 
+We, unfortunately, didn't get to win the medals, however, we did make it to the finalist, ranking in top 16 out of 500+ participants.
 
+Here we 
+
+## 
 
 
 ## Notes
