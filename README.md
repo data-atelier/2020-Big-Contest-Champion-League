@@ -68,4 +68,4 @@ In terms of model training, time-based splitting in training and validation sets
 
 Below is the structure of our final prediction model.
 
-![alt text](model_structure.PNG)
+![alt text](https://github.com/data-atelier/imgs.git/model_structure.PNG)
