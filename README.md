@@ -17,7 +17,7 @@ NS SHOP+ is a relatively new business model launched in 2015 by NS Home Shopping
 To gain the competitive edge in the higly competitive home shopping market, the company asked for the contestants to suggest the best way to optimize its airing schedule appying ML/DL. 
 
 ### Dataset
-*Notes: As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.
+*Notes: As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.*
 
 Training set - The company's airing schedule and corresponding sales records from Jan 2019 ~ Dec 2019.
 
