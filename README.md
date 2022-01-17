@@ -1,11 +1,16 @@
 # 2020-Big-Contest-Champion-League
-2020 빅콘테스트 챔피언리그 본선 진출 팀 (상위 3%) / 2020 Big Contest Champion League (Top 3%)
 
-##(작성 중)
+## Background
 
-빅콘테스트에 참가하고자 하셨던 분들, 참가를 하고자 하시는 분들, 그리고 데이터 사이언스를 공부하시는 분들께 작은 도움이 되고 싶어 코드를 공개하기로 했습니다!
+Big Contest is the biggest data analytics competition in South Korea that is held annually.
 
-*유의 사항*
-1. 빅콘테스트 보안 규정에 따라 제공된 데이터는 업로드 불가합니다.
+Our team, data atelier, took the pledge to participate in the champion league track. There, we solved 
+
+2020 Big Contest Champion League Finalist - Top 3% (2020 빅콘테스트 챔피언리그 본선 진출 팀 - 상위 3%)
+
+
+
+*Notes*
+1. 
 2. 본 레포지토리에 공개된 코드를 개인적인 용도로 참고하시는 것은 괜찮지만 그에 따라 발생 가능한 모든 종류의 문제에 대해서는 저희가 책임질 수 없습니다. 
 3. 
