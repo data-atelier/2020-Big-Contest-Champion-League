@@ -2,7 +2,7 @@
 
 ## Background
 
-Big Contest is the biggest data analytics competition in South Korea that is held annually.
+Big Contest is the biggest data analytics competition with real-world problems in South Korea that is held annually.
 
 Our team, data atelier, took the pledge to participate in the champion league track. There, we solved a sales forecasting task for a home shopping company in the country. 
 
@@ -12,9 +12,17 @@ After the competition, our team decided to share our approach & scripts here in 
 
 ## Problem Description: Sales Prediction for NS SHOP+ Home shopping
 
-In the extremely competitive home shopping market world, optimizing the company's airing schedule is one of the key factors to successful business.
+NS SHOP+ is a relatively new business model launched in 2015 by NS Home Shopping, which allows consumers to make real-time orders with their own remote controls.
 
+To gain the competitive edge in the higly competitive home shopping market, the company asked for the contestants to suggest the best way to optimize its airing schedule appying ML/DL. 
+
+### Dataset
 
 
 ## Notes
+
 1. As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.
+
+## Findings
+
+
