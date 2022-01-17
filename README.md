@@ -40,12 +40,20 @@ After some research on the business context, our team decided to add features fr
 #### Weather data from Korea Meteorological Administration
 
 It is well-known that home shopping sales tends to increase when the weather is not appropriate for outdoor activities. 
-
 To reflect this common sense, we gathered weather data - humidity, temperature, precipitation, etc. - from the Korea Meteorological Administration's website and wrangled them and merged them as wheather features.
 
 #### Shopping Trend data from Naver DataLab
 
-## Findings
+We also wanted to incorporate consumer's interest towards different product as this would affect the sales, hence used search volume data by defferent demographic consumer groups to achieve our goal. 
+
+## Exploratory Data Analysis Findings
+
+1. Every product has its own silver lining
+    - Produce & Kimchi sales peaked in September due to Chuseok holidays
+    
+
+
+
+## Modeling
 
 1. In terms of model training, time-based splitting in training and validation sets worked better when it comes to model accuracy. Also, this splition method apparently reduced the risk of overfitting. 
-
