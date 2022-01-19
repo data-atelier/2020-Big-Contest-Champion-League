@@ -31,7 +31,7 @@ Reference data - Audience rating of the NS SHOP+ TV channel (in minutes)
 
 - Date: date & time information of the airing; consisted of year, month, date, hour, and time
 - Product_Group_Code (a.k.a Mother_Code)
-- Product_Group_in_KOR
+- Product_Group_Description 
 - Product_Code
 - Product_Name
 - Price_Per_Unit
