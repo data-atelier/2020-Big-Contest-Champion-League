@@ -85,4 +85,5 @@ Below is the structure of our final prediction model.
 1. Could consider leveraging time series forecast when stacking models
 
 ## Python Scripts 
-- 
+- Data_Wrangling.ipynb: Displays the process of how we cleaned, aggregated, and merged datasets to create training/validation sets
+- Modelling & Prediction.ipynb: Includes the final version of our prediction model and making predictions
