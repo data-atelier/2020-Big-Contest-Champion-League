@@ -78,8 +78,11 @@ Below is the structure of our final prediction model.
 
 ## What did we do good?
 1. Utilized external sources well which turned out to be effective in predicting sales
-2. Split the training & validation set based on time
+2. Split the training & validation set based on time to better reflect the time-sensitive nature of the home shopping business and prevent overfitting
 3. Used feature embedding method when dealing with product code feature that helped effectively reduce the feature dimension
 
 ## What can we do better next time?
 1. Could consider leveraging time series forecast when stacking models
+
+## Python Scripts 
+- 
