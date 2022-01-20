@@ -19,7 +19,7 @@ NS SHOP+ is a relatively new business model launched in 2015 by NS Home Shopping
 To gain the competitive edge in the higly competitive home shopping market, the company asked for the contestants to suggest the best way to optimize its airing schedule appying ML/DL. 
 
 ### Dataset
-*Notes: As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.*
+*Note: As datasets sharing is strictly forbidden by the competition rules, therefore we won't upload any piece of them.*
 
 Training set - The company's airing schedule and corresponding sales records from Jan 2019 ~ Dec 2019.
 
@@ -84,6 +84,7 @@ Below is the structure of our final prediction model.
 ## What can we do better next time?
 1. Could consider leveraging time series forecast when stacking models
 
-## Python Scripts 
+## Python Scripts
+*Note: Exploratory Data Analysis Results will be uploaded as in .html file format later*
 - Data_Wrangling.ipynb: Displays the process of how we cleaned, aggregated, and merged datasets to create training/validation sets
 - Modelling & Prediction.ipynb: Includes the final version of our prediction model and making predictions
